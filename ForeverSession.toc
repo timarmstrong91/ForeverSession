@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Forever Session
+## Notes: Draggable XP, gold, honor, and reputation rates. Survives UI reloads.
+## Author: Tim
+## Version: 1.19.0
+## SavedVariablesPerCharacter: ForeverSessionDB
+
+ForeverSession.lua
+Options.lua
