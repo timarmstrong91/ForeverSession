@@ -6,6 +6,8 @@ per hour. Each tracker has a separate section in one movable panel.
 Targets the Forever client with interface version `16001`. Retail and other
 Classic clients are not supported.
 
+![Forever Session panel showing XP, gold, honor, reputation, and session time](docs/panel_screenshot.png)
+
 ## Installation
 
 1. Download or clone this repository into a folder named `ForeverSession`.
